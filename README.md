@@ -28,10 +28,10 @@ Citas
 ~~
 
 
--[ ] + texto: Tarea no completa
--[x] + texto: Tarea completa
+- [ ] + texto: Tarea no completa
+- [x] + texto: Tarea completa
 
 | Gris | Naranja | Verde |
-| :---: || :---: || :---: |
-|-----|-----|-----|
+|  :---:  ||  :---:  ||  :---:  |
+|-------|-------|-------|
 | Mal | Casi | Bien |
