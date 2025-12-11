@@ -23,3 +23,16 @@ let columna = 0;
 let juegoTerminado = false;
 
 ```
+Citas
+>Nicho ideal.
+~~
+
+
+-[ ] + texto: Tarea no completa
+-[x] + texto: Tarea completa
+
+| Gris | Naranja | Verde |
+| :---: || :---: || :---: |
+
+|-----|-----|-----|
+| Mal | Casi | Bien |
