@@ -10,3 +10,5 @@
 - Naranja la letra esta pero en la posicion incorrecta.
 - Verda la letra esta bien.
 
+| Gris | Naranja | Verde |
+|-----|-----|-----|
