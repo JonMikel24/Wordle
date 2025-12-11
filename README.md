@@ -32,4 +32,5 @@ Citas
 - [x] + texto: Tarea completa
 
 | Gris | Naranja | Verde |
-| Mal | Casi | Bien |
+|-----|-----|-----|
+|  :---:  ||  :---:  ||  :---:  |
