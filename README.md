@@ -33,6 +33,5 @@ Citas
 
 | Gris | Naranja | Verde |
 | :---: || :---: || :---: |
-
 |-----|-----|-----|
 | Mal | Casi | Bien |
