@@ -25,8 +25,8 @@ let juegoTerminado = false;
 ```
 Citas
 >Nicho ideal.
-~~
 
+---
 
 - [ ] + texto: Tarea no completa
 - [x] + texto: Tarea completa
